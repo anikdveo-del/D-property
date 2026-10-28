@@ -1,0 +1,6 @@
+{
+  "name": "Digital Legacy Vault",
+  "description": "Zero-knowledge AES-256 encrypted digital asset vault with Google Drive AppData backup and Dead Man's Switch nominee inheritance for React Native & Expo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
